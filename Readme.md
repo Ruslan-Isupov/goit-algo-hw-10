@@ -16,9 +16,9 @@
 
 ```
 Quad_method integral:             2.666
-Monte Carlo integral (100):       2.58
-Monte Carlo integral (1000):      2.64
-Monte Carlo integral (10000):     2.66
+Monte Carlo integral (n=100):       2.58
+Monte Carlo integral (n=1000):      2.64
+Monte Carlo integral (n=10000):     2.66
 
 ```
 ## Висновок
